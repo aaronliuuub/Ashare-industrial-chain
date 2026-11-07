@@ -1,6 +1,6 @@
 # Ashare-industrial-chain
 
-主流炒股软件产业链库 —— KaiPanLa（开盘啦）三源数据之一。
+主流炒股软件产业链库 —— KaiPanLa 三源数据之一。
 
 ## 库内容
 
